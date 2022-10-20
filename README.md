@@ -22,3 +22,18 @@ dotnet run
 ### Explanation
 
 ## 2. Add a Controller
+
+## 3. Add a Razor View
+
+Run your app:
+dotnet run
+
+## 4. Add a Model
+
+## 5. Build Your View with Inputs
+
+## 6. Code your GET and POST requests
+
+## 7. Add the Model to Your View
+
+## 8. Add Validation
